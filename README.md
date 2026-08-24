@@ -8,30 +8,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=six&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=six&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   ██████╗ ██╗   ██╗███████╗██╗   ██╗               ║
-║  ██╔═══██╗██║   ██║██╔════╝██║   ██║               ║
-║  ██║   ██║██║   ██║█████╗  ██║   ██║               ║
-║  ██║▄▄ ██║╚██╗ ██╔╝██╔══╝  ██║   ██║               ║
-║  ╚██████╔╝ ╚████╔╝ ███████╗╚██████╔╝               ║
-║   ╚══▀▀═╝   ╚═══╝  ╚══════╝ ╚═════╝                ║
-║                                                      ║
-║       [ SOFTWARE ENGINEER // ONLINE ]                ║
-║                                                      ║
-║  > SYSTEM      : QUYEN.DEV                           ║
-║  > ROLE        : SOFTWARE ENGINEERING STUDENT        ║
-║  > FRONTEND    : REACT / TYPESCRIPT / TAILWIND      ║
-║  > BACKEND     : NODE / EXPRESS                      ║
-║  > MOBILE      : FLUTTER / DART                      ║
-║  > DATABASE    : MONGODB / SQL SERVER                ║
-║                                                      ║
-║  [ PROJECTS ] [ SKILLS ] [ GITHUB ] [ CONTACT ]     ║
-║                                                      ║
-║       ████████████████████████░░░░  87%              ║
-║                                                      ║
-║              🐍 CONTRIBUTIONS                        ║
-╚══════════════════════════════════════════════════════╝
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=six&theme=radical&no-frame=false&no-bg=true&margin-w=4)
